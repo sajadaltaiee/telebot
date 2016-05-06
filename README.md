@@ -9,7 +9,6 @@ c9.io
 ثم اكتب هذا الامر
 ```bash
 sudo apt-get update
-..
 ```
 ثم اكتب هذا
 ```bash
